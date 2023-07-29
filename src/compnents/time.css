@@ -1,0 +1,22 @@
+.john {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+}
+.cena {
+  color: #363031;
+  font-weight: 600;
+  font-size: x-large;
+}
+.rko {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 0;
+}
+.okr {
+  color: #363031;
+  font-weight: 700;
+  font-size: xx-large;
+}

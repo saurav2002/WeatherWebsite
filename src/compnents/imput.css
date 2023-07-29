@@ -1,0 +1,55 @@
+.first {
+  display: flex;
+  justify-content: center;
+  margin: 38px 0 20px 0;
+  width: 100%;
+}
+.second {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
+.input {
+  font-size: large;
+  font-weight: 300;
+  padding: 6px;
+  width: 100%;
+  border-radius: 20px;
+}
+.input:focus {
+  outline: none;
+}
+.center {
+  color: #363031;
+  cursor: pointer;
+  transition: all 200ms ease-out;
+  margin-left: 8px;
+}
+.center:hover {
+  transform: scale(130%);
+}
+.btnss {
+  display: flex;
+  width: 25%;
+  align-items: center;
+  justify-content: center;
+}
+.btn3 {
+  color: #363031;
+  font-weight: 500;
+  font-size: xx-large;
+  transition: all 200ms ease-out;
+}
+.btn3:hover {
+  transform: scale(130%);
+}
+.text {
+  font-size: x-large;
+  color: black;
+  margin: 0 2px;
+}
+.tt {
+  color: #363031;
+  font-style: italic;
+  margin: 10px 2px 0 0;
+}

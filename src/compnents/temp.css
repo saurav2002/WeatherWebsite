@@ -1,0 +1,55 @@
+.rock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  font-size: x-large;
+  color: #363031;
+  width: 90%;
+}
+.shawn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+}
+.imggg {
+  color: #363031;
+}
+.cm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.punk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-weight: 700;
+  font-size: larger;
+  line-height: 2;
+}
+.remember {
+  font-size: xxx-large;
+  color: #363031;
+  font-weight: 600;
+}
+.fom {
+  font-style: italic;
+  font-weight: 500;
+}
+.ambrose {
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+  justify-content: space-evenly;
+  margin: 40px 0;
+  color: #363031;
+}
+.last {
+  font-weight: 400;
+}
